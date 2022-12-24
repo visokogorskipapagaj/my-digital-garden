@@ -3,12 +3,13 @@ module.exports = {
     {
       resolve: `gatsby-theme-garden`,
       options: {
+        extensions: ['.mdx', '.md']
         contentPath: `${__dirname}/content/garden`,
         rootNote: `/hello`,
       },
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `Moio Documentation`,
   },
 }

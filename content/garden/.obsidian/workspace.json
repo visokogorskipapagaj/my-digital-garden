@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "d51f6ab0cd73425a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce543a57cd6725f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91952d05994f6ec6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6eaf19ec9cf18490",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6670b445b3c90e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2d45b57c3bb42b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec18a30c44f17c4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6992ec8da96fd39a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf4bcf8a1fd05f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9279ab1dd64bc0c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "91952d05994f6ec6",
+  "lastOpenFiles": []
+}
